@@ -1,57 +1,14 @@
 [
-  {
-    "sourceId": "quran-dua",
-    "sourceName": "أدعية قرآنية",
-    "path": "data/quran-dua.json"
-  },
-  {
-    "sourceId": "iman-breezes",
-    "sourceName": "نفحات إيمانية",
-    "path": "data/iman-breezes.json"
-  },
-  {
-    "sourceId": "salaf-wisdom",
-    "sourceName": "حكم من السلف",
-    "path": "data/salaf-wisdom.json"
-  },
-  {
-    "sourceId": "creation-wonders",
-    "sourceName": "تأملات في خلق الله",
-    "path": "data/creation-wonders.json"
-  },
-  {
-    "sourceId": "riyad-salihin",
-    "sourceName": "رياض الصالحين (مقتطفات)",
-    "path": "data/riyad-salihin.json"
-  },
+
   {
     "sourceId": "as-bill-seeit",
-    "sourceName": "من منظور بيل AA",
+    "sourceName": " (ترجمة شخصية غير منققحة) من منظور بيل ",
     "path": "data/as-bill-seeit.json"
-  },
-  {
-    "sourceId": "prophet-stories",
-    "sourceName": "قصص الأنبياء",
-    "path": "data/prophet-stories.json"
-  },
-  {
-    "sourceId": "morning-evening",
-    "sourceName": "أذكار الصباح والمساء",
-    "path": "data/morning-evening.json"
-  },
-  {
-    "sourceId": "serenity-peace",
-    "sourceName": "سكينة وسلام",
-    "path": "data/serenity-peace.json"
   },
   {
     "sourceId": "real-connection",
     "sourceName": "التواصل الحقيقي",
     "path": "data/real-connection.json"
-  },
-  {
-    "sourceId": "seerah-lessons",
-    "sourceName": "دروس من السيرة",
-    "path": "data/seerah-lessons.json"
   }
+
 ]
