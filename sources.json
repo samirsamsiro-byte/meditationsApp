@@ -45,6 +45,11 @@
     "path": "data/serenity-peace.json"
   },
   {
+    "sourceId": "real-connection",
+    "sourceName": "التواصل الحقيقي",
+    "path": "data/real-connection.json"
+  },
+  {
     "sourceId": "seerah-lessons",
     "sourceName": "دروس من السيرة",
     "path": "data/seerah-lessons.json"
