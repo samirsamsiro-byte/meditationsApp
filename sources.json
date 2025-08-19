@@ -3,11 +3,13 @@
   {
     "sourceId": "as-bill-seeit",
     "sourceName": " (ترجمة شخصية غير منققحة) من منظور بيل ",
-    "path": "data/as-bill-seeit.json"
+    "description" : "من منظور بيل As Bill See it كتاب يحتوى على تاملات من منظور بيل ويلسون موسس زمالة الكحوليين المجهولين " ,
+    "path": "data/as-bill-seeit.json" 
   },
   {
     "sourceId": "real-connection",
     "sourceName": "التواصل الحقيقي",
+    "description" : "كتاب التواصل الحقيقي thr real connection  هو كتاب التاملات الخاص بزمالة سكسهولك المجهولين SA " ,
     "path": "data/real-connection.json"
   }
 
