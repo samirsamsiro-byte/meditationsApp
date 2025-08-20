@@ -12,6 +12,14 @@
     "description" : "كتاب التواصل الحقيقي thr real connection  هو كتاب التاملات الخاص بزمالة سكسهولك المجهولين SA " ,
     "path": "data/real-connection.json"
   },
+
+   {
+    "sourceId": "aa-daily-reflections",
+    "sourceName": "تأملات يومية AA",
+    "description" : "مجموعة من القراءات التي تتحرك عبر السنة التقويمية يومًا بيوم: يتأمل أعضاء AA في الاقتباسات المفضلة من أدب AA." ,
+    "path": "data/aa-daily-reflections.json"
+  },
+  
   {
     "sourceId": "t24h-a-day",
     "sourceName": "أربع وعشرون ساعة في اليوم",
