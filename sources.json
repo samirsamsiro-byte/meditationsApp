@@ -7,7 +7,7 @@
     "path": "data/as-bill-seeit.json" 
   },
   {
-    "sourceId": "real-connection",
+    "sourceId": "sa-real-connection",
     "sourceName": "كتاب التواصل الحقيقي",
     "description" : "كتاب التواصل الحقيقي thr real connection  هو كتاب التاملات الخاص بزمالة سكسهولك المجهولين SA " ,
     "path": "data/real-connection.json"
@@ -32,6 +32,13 @@
     "sourceName": "كتاب ابقَ بسيطًا",
     "description" : "كتاب ابقَ بسيطًا  Keep It Simple تأملات يومية لبدايات وتجديد الخطوات الاثنتي عشرة. تُركّز هذه التأملات على الخطوات الاثنتي عشرة، مُشدّدةً على أهمية تطبيق المعتقدات والشعارات الجديدة والتواصل." ,
     "path": "data/keep-it-simple.json"
+  },
+
+{
+    "sourceId": "touchstones-meditation",
+    "sourceName": "تأمل لمسة الحجر للرجال",
+    "description" : "يستكشف هذا الكتاب  المصمم خصيصًا للرجال، الرجولة من خلال تأملات إعلامية وملهمة. يقدم  Touchstones  نصائح عميقة للتغيرات العديدة في الحياة ويؤكد على أهمية إدراك آثار المشاعر الشائعة  . تدعم رؤيته المدهشة أي مرحلة من مراحل التعافي، ولكن القراءات اليومية في هذا الكتاب ليست ببساطة من أجل تعافي أفضل؛ إنها من أجل حياة أفضل وأكثر توازناً." ,
+    "path": "data/touchstones-meditation.json"
   },
 
 {
