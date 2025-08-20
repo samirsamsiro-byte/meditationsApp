@@ -1,4 +1,12 @@
 [
+
+    {
+    "sourceId": "hikam-ibn-qayyim",
+    "sourceName": "حكم ابن القيم",
+    "description" : "بعض من خلاصات حكم ابن القيم الجوزية،الذي هو أحد أبرز علماء الإسلام، وُلد في دمشق عام 691 هـ. نشأ في بيئة علمية وتأثر بعدد من شيوخ العلم أبرزهم ابن تيمية " ,
+    "path": "data/hikam-ibn-qayyim.json" 
+  },
+    
 {
     "sourceId": "hikam-alataia",
     "sourceName": " كتاب الحكم العطائية ",
