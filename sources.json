@@ -51,6 +51,12 @@
     "description" : "كتاب الشجاعة على التغيير لزمالة آل-أنون " ,
     "path": "data/alanon-courage-to-change.json"
   },
+  {
+    "sourceId": "coda-in-this-moment",
+    "sourceName": "coda في هذه اللحظة",
+    "description" : "كتاب التأمل اليومي لزمالة الإعتماديين المجهولين - في هذه اللحظة" ,
+    "path": "data/coda-in-this-moment.json"
+  },
   
   {
     "sourceId": "t24h-a-day",
