@@ -57,6 +57,13 @@
     "description" : "كتاب التأمل اليومي لزمالة الإعتماديين المجهولين - في هذه اللحظة" ,
     "path": "data/coda-in-this-moment.json"
   },
+
+    {
+    "sourceId": "daily-affirmation-book",
+    "sourceName": "كتاب التأكيدات اليومية",
+    "description" : "من كتاب التأكيدات اليومية" ,
+    "path": "data/daily-affirmation-book.json"
+  },
   
   {
     "sourceId": "t24h-a-day",
