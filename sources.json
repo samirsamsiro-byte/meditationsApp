@@ -57,6 +57,12 @@
     "description" : "كتاب التأمل اليومي لزمالة الإعتماديين المجهولين - في هذه اللحظة" ,
     "path": "data/coda-in-this-moment.json"
   },
+      {
+    "sourceId": "oa-daily-meditation",
+    "sourceName": "OA التأملات اليومية",
+    "description" : "من كتاب التأملات اليومية لزمالة مدمني الطعام المجهولين " ,
+    "path": "data/oa-daily-meditation.json"
+  },
 
     {
     "sourceId": "daily-affirmation-book",
